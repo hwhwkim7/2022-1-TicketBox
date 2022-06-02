@@ -1,0 +1,4 @@
+﻿  Main.cpp
+Main.obj : error LNK2019: "public: __thiscall Screen::~Screen(void)" (??1Screen@@QAE@XZ)"public: void * __thiscall Screen::`scalar deleting destructor'(unsigned int)" (??_GScreen@@QAEPAXI@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+Main.obj : error LNK2019: "public: __thiscall TUKoreaTBox::~TUKoreaTBox(void)" (??1TUKoreaTBox@@QAE@XZ)_main 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\C++study\KHW_TBOX\Debug\KHW_TBOX.exe : fatal error LNK1120: 2개의 확인할 수 없는 외부 참조입니다.
